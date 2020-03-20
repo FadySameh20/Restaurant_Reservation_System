@@ -9,6 +9,9 @@ package user;
  *
  * @author AMR
  */
-public class Waiter extends User{
-    
+public class Main_Course extends Food{
+    @Override
+    public String toString(){
+        return "main_course";
+    }
 }

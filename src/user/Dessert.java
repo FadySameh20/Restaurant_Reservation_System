@@ -9,6 +9,9 @@ package user;
  *
  * @author AMR
  */
-public interface Employee {
-    
+public class Dessert extends Food{
+    @Override
+    public String toString(){
+        return "desert";
+    }
 }

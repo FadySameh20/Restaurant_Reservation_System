@@ -9,6 +9,10 @@ package user;
  *
  * @author AMR
  */
-public class Waiter extends User{
+public abstract class User {
+    String name;
+    String role;
+    String username;
+    String password;
     
 }

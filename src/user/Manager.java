@@ -9,6 +9,6 @@ package user;
  *
  * @author AMR
  */
-public class Manager {
+public class Manager extends User{
     
 }

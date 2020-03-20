@@ -9,6 +9,7 @@ package user;
  *
  * @author AMR
  */
-public class Cook {
+public class Cook extends User{
+    
     
 }

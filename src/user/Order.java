@@ -5,10 +5,29 @@
  */
 package user;
 
+import utensilis.Dish;
+
 /**
  *
  * @author AMR
  */
 public class Order {
+    private int index=0;
+    private Dish dish[];
+    public int getIndex() {
+        return index;
+    }
+
+    public void setIndex(int index) {
+        this.index = index;
+    }
+
+    public Dish[] getDish() {
+        return dish;
+    }
+
+    public void setDish(Dish d) {
+        dish[index++]=d;
+    }
     
 }

@@ -9,6 +9,6 @@ package user;
  *
  * @author AMR
  */
-public class Customer {
+public class Customer extends User{
     
 }
