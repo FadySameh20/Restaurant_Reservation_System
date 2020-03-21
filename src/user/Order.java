@@ -5,6 +5,7 @@
  */
 package user;
 
+import java.util.ArrayList;
 import utensilis.Dish;
 
 /**
@@ -12,22 +13,14 @@ import utensilis.Dish;
  * @author AMR
  */
 public class Order {
-    private int index=0;
-    private Dish dish[];
-    public int getIndex() {
-        return index;
-    }
+    private ArrayList<Dish> dish=new ArrayList<>();
 
-    public void setIndex(int index) {
-        this.index = index;
-    }
-
-    public Dish[] getDish() {
+    public ArrayList<Dish> getDish() {
         return dish;
     }
 
     public void setDish(Dish d) {
-        dish[index++]=d;
+        dish.add(d);
     }
     
 }
