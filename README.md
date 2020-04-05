@@ -22,18 +22,19 @@ details, and also see the total profit of the day.
     is able to get his receipt with the order number, in addition to all ordered dishes, taxes and total price. **If the customer has already reserved a 
     table but his order wasn’t delivered yet, and he wanted to make another order, he will be considered as a new customer with the same table number but 
     different dishes (order)**. Finally, he will press the logout button and will be navigated to the login screen. To keep the state of the restaurant, we
-    made an attribute called “mode”, which in this case the mode is “preparing” indicating that the order has been made and the dishes are being prepared.
+    made an attribute called **“mode”**, which in this case the mode is **“preparing”** indicating that the order has been made and the dishes are being
+    prepared.
 
 *  	If the username and password belongs to a Cook, then he will be navigated to the Cook Dashboard, where he will be able to see the orders including : 
     order number, table number and dishes . He should choose which order to cook. Finally, he will press the logout button and will be navigated to the 
-    login screen. Now, the mode of the customer becomes “ready” indicating that his order is ready.
+    login screen. Now, the mode of the customer becomes **“ready”** indicating that his order is ready.
 
 *  	If the username and password belongs to Waiter, then he will be navigated to the Waiter Dashboard, where he will be able to see the orders including :
     order number, table number and customer name. He should choose which order to deliver to the customer. After all the orders for the same customer are 
     delivered to him, the table will be available to another customer to reserve. Finally, the waiter will press the logout button and will be navigated 
-    to the login screen. Now, the mode of the customer becomes “delivered” indicating that he has received his order. When the state is “delivered”, the 
-    table becomes available again to other customers if and only if the same customer hasn’t ordered anything else on the same table as assumed before 
-    (in Customer Dashboard).
+    to the login screen. Now, the mode of the customer becomes **“delivered”** indicating that he has received his order. **When the state is “delivered”, 
+    the table becomes available again to other customers if and only if the same customer hasn’t ordered anything else on the same table as assumed before 
+    (in Customer Dashboard)**.
 
 *  	If the username and password belongs to a Manager, then he will be navigated to the Manager Dashboard, where he will be able to view all restaurant’s 
     staff and all customers details. He can see the total profit for each day. Finally, he will press the logout button and will be navigated to the login 
