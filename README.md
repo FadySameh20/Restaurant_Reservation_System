@@ -45,6 +45,10 @@ Details:
 	At the end of each day (at 12:00 AM), the xml file “todayData” that contains today reservations will remove all reservations upon any modification 
     made to the system (registering or ordering) and append them to another xml file “historyData” which will contain past reservations containing the 
     date of the day with all customers’ details.
+    
+	To run the executable jar, images and files must be in the same folder of the jar in order to be able to run.
+
+	It is not allowed to exit any screen except the login screen.
 
 Labor Division
 
