@@ -49,7 +49,7 @@ details, and also see the total profit of the day.
     
 *  	To run the executable jar, images and files must be in the same folder of the jar in order to be able to run.
 
-*  	It is not allowed to exit any screen except the login screen.
+*  	**It is not allowed to exit any screen except the login screen**.
 
 **Labor Division**
 
