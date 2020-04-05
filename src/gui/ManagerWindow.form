@@ -300,7 +300,7 @@
     <Component class="javax.swing.JLabel" name="jLabelImg">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="2" name="C:\Users\fadys\OneDrive\Desktop\manager4.png"/>
+          <Image iconType="3" name="/gui/Manager.png"/>
         </Property>
       </Properties>
       <Constraints>

@@ -85,7 +85,7 @@ public class Login extends javax.swing.JFrame {
         jLabelSystem.setText("Restaurant Reservation System");
         getContentPane().add(jLabelSystem, new org.netbeans.lib.awtextra.AbsoluteConstraints(80, 0, -1, -1));
 
-        jLabelImg.setIcon(new javax.swing.ImageIcon("C:\\Users\\fadys\\OneDrive\\Desktop\\Login.jpg")); // NOI18N
+        jLabelImg.setIcon(new javax.swing.ImageIcon(getClass().getResource("/gui/Login.jpg"))); // NOI18N
         getContentPane().add(jLabelImg, new org.netbeans.lib.awtextra.AbsoluteConstraints(-60, -10, 500, 300));
 
         pack();

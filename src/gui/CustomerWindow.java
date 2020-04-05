@@ -55,7 +55,7 @@ public class CustomerWindow extends javax.swing.JFrame {
                 jTextAreaMenu.append(tables.get(i).getNumberOfSeats() + "\n");
                 jTextAreaMenu.append(" Smoking :");
                 jTextAreaMenu.append(tables.get(i).isSmokingArea() + "\n");
-                jTextAreaMenu.append("---------------------------------------------------------------------------------------------\n");
+                jTextAreaMenu.append("-------------------------------\n");
             }
         } else {
             setMenu();
@@ -203,7 +203,7 @@ public class CustomerWindow extends javax.swing.JFrame {
         getContentPane().add(jLabelDashBoard, new org.netbeans.lib.awtextra.AbsoluteConstraints(300, 50, -1, -1));
 
         jLabelImg.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelImg.setIcon(new javax.swing.ImageIcon("C:\\Users\\fadys\\OneDrive\\Desktop\\customer2.jpg")); // NOI18N
+        jLabelImg.setIcon(new javax.swing.ImageIcon(getClass().getResource("/gui/Customer.jpg"))); // NOI18N
         getContentPane().add(jLabelImg, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, -20, 800, 670));
 
         pack();

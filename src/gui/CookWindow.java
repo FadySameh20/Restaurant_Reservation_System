@@ -151,7 +151,7 @@ public class CookWindow extends javax.swing.JFrame {
         jLabelDashBoard.setText("Cook DashBoard");
         getContentPane().add(jLabelDashBoard, new org.netbeans.lib.awtextra.AbsoluteConstraints(315, 23, -1, -1));
 
-        jLabelImg.setIcon(new javax.swing.ImageIcon("C:\\Users\\fadys\\OneDrive\\Desktop\\Cook4.jpg")); // NOI18N
+        jLabelImg.setIcon(new javax.swing.ImageIcon(getClass().getResource("/gui/Cook.jpg"))); // NOI18N
         getContentPane().add(jLabelImg, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, -30, 840, 430));
 
         pack();

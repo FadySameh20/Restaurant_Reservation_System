@@ -112,7 +112,7 @@ public class WaiterWindow extends javax.swing.JFrame {
         jLabel1.setText("Order Number");
         getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(520, 100, -1, -1));
 
-        jLabelImg.setIcon(new javax.swing.ImageIcon("C:\\Users\\fadys\\OneDrive\\Desktop\\waiter2.jpg")); // NOI18N
+        jLabelImg.setIcon(new javax.swing.ImageIcon(getClass().getResource("/gui/Waiter.jpg"))); // NOI18N
         getContentPane().add(jLabelImg, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, -1, -1));
 
         pack();

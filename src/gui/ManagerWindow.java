@@ -193,7 +193,7 @@ public class ManagerWindow extends javax.swing.JFrame {
 
         getContentPane().add(jPanel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(355, 197, 1010, -1));
 
-        jLabelImg.setIcon(new javax.swing.ImageIcon("C:\\Users\\fadys\\OneDrive\\Desktop\\manager4.png")); // NOI18N
+        jLabelImg.setIcon(new javax.swing.ImageIcon(getClass().getResource("/gui/Manager.png"))); // NOI18N
         getContentPane().add(jLabelImg, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 1380, 550));
 
         pack();

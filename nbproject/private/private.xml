@@ -3,29 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/fadys/Downloads/Computer-Communication%20Program/Term%204/Programming%20II/Projects/Project%202/Restaurant%20System%20Reservation/src/gui/CustomerWindow.java</file>
-            <file>file:/C:/Users/fadys/Downloads/Computer-Communication%20Program/Term%204/Programming%20II/Projects/Project%202/Restaurant%20System%20Reservation/src/restaurant/Restaurant.java</file>
-            <file>file:/C:/Users/fadys/Downloads/Computer-Communication%20Program/Term%204/Programming%20II/Projects/Project%202/Restaurant%20System%20Reservation/src/restaurant/Tables.java</file>
-            <file>file:/C:/Users/fadys/Downloads/Computer-Communication%20Program/Term%204/Programming%20II/Projects/Project%202/Restaurant%20System%20Reservation/todayData.xml</file>
-            <file>file:/C:/Users/fadys/Downloads/Computer-Communication%20Program/Term%204/Programming%20II/Projects/Project%202/Restaurant%20System%20Reservation/src/restaurant/ReadWrite.java</file>
-            <file>file:/C:/Users/fadys/Downloads/Computer-Communication%20Program/Term%204/Programming%20II/Projects/Project%202/Restaurant%20System%20Reservation/src/users/Customer.java</file>
-            <file>file:/C:/Users/fadys/Downloads/Computer-Communication%20Program/Term%204/Programming%20II/Projects/Project%202/Restaurant%20System%20Reservation/src/utensils/Table.java</file>
-            <file>file:/C:/Users/fadys/Downloads/Computer-Communication%20Program/Term%204/Programming%20II/Projects/Project%202/Restaurant%20System%20Reservation/src/gui/ManagerWindow.java</file>
-            <file>file:/C:/Users/fadys/Downloads/Computer-Communication%20Program/Term%204/Programming%20II/Projects/Project%202/Restaurant%20System%20Reservation/src/restaurant/Customers.java</file>
-            <file>file:/C:/Users/fadys/Downloads/Computer-Communication%20Program/Term%204/Programming%20II/Projects/Project%202/Restaurant%20System%20Reservation/src/gui/Login.java</file>
-            <file>file:/C:/Users/fadys/Downloads/Computer-Communication%20Program/Term%204/Programming%20II/Projects/Project%202/Restaurant%20System%20Reservation/src/utensils/Dish.java</file>
-            <file>file:/C:/Users/fadys/Downloads/Computer-Communication%20Program/Term%204/Programming%20II/Projects/Project%202/Restaurant%20System%20Reservation/src/gui/WaiterWindow.java</file>
-            <file>file:/C:/Users/fadys/Downloads/Computer-Communication%20Program/Term%204/Programming%20II/Projects/Project%202/Restaurant%20System%20Reservation/src/users/Waiter.java</file>
-            <file>file:/C:/Users/fadys/Downloads/Computer-Communication%20Program/Term%204/Programming%20II/Projects/Project%202/Restaurant%20System%20Reservation/src/restaurant/UserXML.java</file>
-            <file>file:/C:/Users/fadys/Downloads/Computer-Communication%20Program/Term%204/Programming%20II/Projects/Project%202/Restaurant%20System%20Reservation/src/users/Employee.java</file>
-            <file>file:/C:/Users/fadys/Downloads/Computer-Communication%20Program/Term%204/Programming%20II/Projects/Project%202/Restaurant%20System%20Reservation/historyData.xml</file>
-            <file>file:/C:/Users/fadys/Downloads/Computer-Communication%20Program/Term%204/Programming%20II/Projects/Project%202/Restaurant%20System%20Reservation/src/gui/Register.java</file>
-            <file>file:/C:/Users/fadys/Downloads/Computer-Communication%20Program/Term%204/Programming%20II/Projects/Project%202/Restaurant%20System%20Reservation/src/restaurant/Users.java</file>
-            <file>file:/C:/Users/fadys/Downloads/Computer-Communication%20Program/Term%204/Programming%20II/Projects/Project%202/Restaurant%20System%20Reservation/src/users/Manager.java</file>
-            <file>file:/C:/Users/fadys/Downloads/Computer-Communication%20Program/Term%204/Programming%20II/Projects/Project%202/Restaurant%20System%20Reservation/src/restaurant/Dishes.java</file>
-            <file>file:/C:/Users/fadys/Downloads/Computer-Communication%20Program/Term%204/Programming%20II/Projects/Project%202/Restaurant%20System%20Reservation/src/users/Cook.java</file>
-            <file>file:/C:/Users/fadys/Downloads/Computer-Communication%20Program/Term%204/Programming%20II/Projects/Project%202/Restaurant%20System%20Reservation/src/gui/CookWindow.java</file>
-            <file>file:/C:/Users/fadys/Downloads/Computer-Communication%20Program/Term%204/Programming%20II/Projects/Project%202/Restaurant%20System%20Reservation/src/users/User.java</file>
+            <file>file:/C:/Users/fadys/OneDrive/Desktop/Project%202/Restaurant%20System%20Reservation/src/gui/Welcome.java</file>
+            <file>file:/C:/Users/fadys/OneDrive/Desktop/Project%202/Restaurant%20System%20Reservation/todayData.xml</file>
+            <file>file:/C:/Users/fadys/OneDrive/Desktop/Project%202/Restaurant%20System%20Reservation/src/gui/CustomerWindow.java</file>
+            <file>file:/C:/Users/fadys/OneDrive/Desktop/Project%202/Restaurant%20System%20Reservation/src/gui/Login.java</file>
+            <file>file:/C:/Users/fadys/OneDrive/Desktop/Project%202/Restaurant%20System%20Reservation/historyData.xml</file>
+            <file>file:/C:/Users/fadys/OneDrive/Desktop/Project%202/Restaurant%20System%20Reservation/src/gui/CookWindow.java</file>
         </group>
     </open-files>
 </project-private>
