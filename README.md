@@ -50,15 +50,3 @@ details, and also see the total profit of the day.
 *  	To run the executable jar, images and files must be in the same folder of the jar in order to be able to run.
 
 *  	**It is not allowed to exit any screen except the login screen**.
-
-**Labor Division**
-
-*  	First, we started our program with eight main classes, which are: Users (abstract class), Customer, Employee, Cook, Waiter, Manager, Table, Dish. 
-    Amr implemented four classes: Employee, Cook, Manager, Dish. On the other hand, Fady implemented the other four classes: User, Customer, Waiter and 
-    Table.
-
-*  	As for the classes concerning reading and writing from or to files, and also the classes concerning the GUI, we used ”TeamViewer” application that 
-    allows sharing the screen to be able to work together at the same time.
-
-*  	Sometimes one of us make some modifications to the code and inform the other of them so that we are both updated with all the modifications, making our
-    program more efficient.
